@@ -10,7 +10,7 @@
 +public class Config {
 +    private static Config instance = new Config();
 +
-+    private static File jsonFile;
++    private static File 
 +    private static boolean readOnly;
 +
 +    public static final String MCPATCHER_PROPERTIES = "mcpatcher.properties";
